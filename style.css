@@ -1,0 +1,208 @@
+body{
+    width:100%;
+    height: 800px;
+    background-color: rgb(245, 238, 244);
+    
+}
+
+.main-principal h1{
+     margin-top: 90px;
+
+}
+main h1{
+    margin:150px 0 0 120px ;
+    color: rgb(75, 13, 133);
+    text-transform: uppercase;
+    font-family: 'League Spartan', sans-serif;
+    font-size: 55px;
+    display: inline-block;
+
+}
+
+main .subtitle-main{
+    color: rgb(221, 186, 120);
+    margin-left: 120px;
+    font-family: 'League Spartan', sans-serif;
+    font-size: 20px;
+    width: 500px;
+    line-height: 25px;
+}
+
+.section-1{
+    display: block;
+    background-color: rgba(178, 122, 204, 0.493);
+    border-radius: 8px 8px 8px 8px; 
+    width: 300px;
+    height: 40px ;
+    padding: 1%;
+    position: relative;
+    left: 750px;
+    bottom: 230px;
+}
+
+.section-1 p{
+    display: inline-block;
+    text-align: center;
+    margin-top: 7px;
+}
+
+.section-2{
+    display: block;
+    background-color: rgba(178, 122, 204, 0.493);
+    border-radius: 8px 8px 8px 8px; 
+    width: 320px;
+    height: 40px ;
+    padding: 1%;
+    position: relative;
+    left: 850px;
+    bottom: 200px;
+}
+.section-2 p{
+    display: inline-block;
+    text-align: center;
+    margin-top: 7px;
+    
+}
+
+.section-3{
+    display: block;
+    background-color: rgba(178, 122, 204, 0.493);
+    border-radius: 8px 8px 8px 8px;
+    margin-top: 22px;
+    width: 320px;
+    height: 40px ;
+    padding: 1%;
+    position: relative;
+    left: 950px;
+    bottom: 190px;
+   
+}
+.section-3 p{
+    display: inline-block;
+    text-align: center;
+    margin-top: 7px;
+    
+    
+}
+
+.article-colton{
+    margin-top: 55px;
+    background-color: rgba(47, 5, 87, 0.7);
+    width: 380px;
+    border-radius: 25px 25px 25px 25px;
+    height: 240px;
+    padding: 1%;
+    position: relative;
+    bottom: 200px;
+    left: 15px;
+}
+
+.img-colton{
+    border-radius: 45px 45px 45px 45px;
+    margin-top: 22px;
+}
+.name-colton{
+    position: relative;
+    width: 100px;
+    left: 90px;
+    bottom: 90px;
+   color: aliceblue;
+   font-family: sans-serif;
+}
+.subtitle-colton{
+    position: relative;
+    width: 100px;
+    left: 90px;
+    bottom: 90px;
+   color: rgb(75, 13, 133);;
+   font-family: sans-serif;
+   
+}
+.description-colton{
+    position: relative;
+    bottom: 80px;
+    line-height: 25px;
+
+   
+}
+
+.article-irene{
+    
+    margin-top: 55px;
+    background-color: rgba(47, 5, 87, 0.7);
+    width: 380px;
+    border-radius: 25px 25px 25px 25px;
+    height: 240px;
+    padding: 1%;
+    position: relative;
+    left: 460px;
+    bottom: 520px;
+}
+
+.img-irene{
+    border-radius: 45px 45px 45px 45px;
+    margin-top: 22px;
+}
+.name-irene{
+    position: relative;
+    width: 100px;
+    left: 90px;
+    bottom: 90px;
+   color: aliceblue;
+   font-family: sans-serif;
+}
+.subtitle-irene{
+    position: relative;
+    width: 100px;
+    left: 90px;
+    bottom: 90px;
+   color: rgb(75, 13, 133);;
+   font-family: sans-serif;
+   
+}
+.description-irene{
+    position: relative;
+    bottom: 80px;
+    line-height: 25px;
+}
+
+
+.article-anne{
+    margin-top: 55px;
+    background-color: rgba(47, 5, 87, 0.7);
+    width: 380px;
+    border-radius: 25px 25px 25px 25px;
+    height: 240px;
+    padding: 1%;
+    position: relative;
+    left: 900px;
+    bottom: 845px;
+}
+.img-anne{
+    border-radius: 45px 45px 45px 45px;
+    margin-top: 22px;
+}
+.name-anne{
+    position: relative;
+    width: 100px;
+    left: 90px;
+    bottom: 90px;
+   color: aliceblue;
+   font-family: sans-serif;
+}
+.subtitle-anne{
+    position: relative;
+    width: 100px;
+    left: 90px;
+    bottom: 90px;
+   color: rgb(75, 13, 133);;
+   font-family: sans-serif;
+   
+}
+.description-anne{
+    position: relative;
+    bottom: 80px;
+    line-height: 25px;
+}
+
+
