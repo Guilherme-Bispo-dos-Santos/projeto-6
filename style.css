@@ -204,5 +204,8 @@ main .subtitle-main{
     bottom: 80px;
     line-height: 25px;
 }
-
+ 
+.attribution{
+  text-aliagn: center;
+}
 
